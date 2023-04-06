@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DatesTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2023-04-06T02:58:32" hostname="Freddies-MBP.hub" time="0.105">
+  <properties/>
+  <testcase name="invalidDay()" classname="DatesTest" time="0.021"/>
+  <testcase name="upperLimit()" classname="DatesTest" time="0.002"/>
+  <testcase name="ddFormat()" classname="DatesTest" time="0.001"/>
+  <testcase name="proceedingSeparator()" classname="DatesTest" time="0.002"/>
+  <testcase name="mmmFormatInvalidMonth()" classname="DatesTest" time="0.001"/>
+  <testcase name="mFormatInvalidMonth()" classname="DatesTest" time="0.0"/>
+  <testcase name="notAMonthDigit()" classname="DatesTest" time="0.001"/>
+  <testcase name="MmmFormat()" classname="DatesTest" time="0.001"/>
+  <testcase name="dashSplitter()" classname="DatesTest" time="0.0"/>
+  <testcase name="mFormat()" classname="DatesTest" time="0.002"/>
+  <testcase name="doubleSeparatorOne()" classname="DatesTest" time="0.001"/>
+  <testcase name="doubleSeparatorTwo()" classname="DatesTest" time="0.002"/>
+  <testcase name="zero_mFormat()" classname="DatesTest" time="0.002"/>
+  <testcase name="yyyyFormat()" classname="DatesTest" time="0.002"/>
+  <testcase name="dFormat()" classname="DatesTest" time="0.001"/>
+  <testcase name="zero_dFormat()" classname="DatesTest" time="0.002"/>
+  <testcase name="yyFormatLessThan50()" classname="DatesTest" time="0.0"/>
+  <testcase name="MMMFormat()" classname="DatesTest" time="0.001"/>
+  <testcase name="mmFormat()" classname="DatesTest" time="0.001"/>
+  <testcase name="MMmFormatInvalidMonth()" classname="DatesTest" time="0.001"/>
+  <testcase name="lowerLimit()" classname="DatesTest" time="0.0"/>
+  <testcase name="yearOutOfRange()" classname="DatesTest" time="0.002"/>
+  <testcase name="slashSplitter()" classname="DatesTest" time="0.001"/>
+  <testcase name="mmmFormat()" classname="DatesTest" time="0.002"/>
+  <testcase name="mmFormatInvalidMonth()" classname="DatesTest" time="0.001"/>
+  <testcase name="yyFormatGreaterThan50()" classname="DatesTest" time="0.001"/>
+  <testcase name="spaceSplitter()" classname="DatesTest" time="0.001"/>
+  <testcase name="notAMonthText()" classname="DatesTest" time="0.001"/>
+  <testcase name="notADay()" classname="DatesTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
