@@ -6,10 +6,13 @@ This is a Java program that validates and formats dates entered in various forma
 
 This program reads input from the console, validates and formats the entered dates, and prints the formatted dates to the console. To run the program, compile the `App.java` file and then run the compiled class file. While the project is a gradle build, there are no external libraries other than those from the Java SDK and JUnit for testing. Therefore, the class can be used outside of the gradle structure. You can then enter dates in various formats and the program will validate and format them.
 
+>Note: This code will not compile with java versions before 15. In development I have been using Oracle Open JDK 17.
+
+## Testing
 There is a test class that contains multiple tests for individual cases that violate one aspect of the specification. Looking back I would change these to input data sets with many valid and invalid dates and then test these as with the current solution there is a lot of repeated code and each case only gets one test.
 
 
->Note: This code will not compile with java versions before 15. In development I have been using Oracle Open JDK 17.
+
 
 ## Supported Date Formats
 
